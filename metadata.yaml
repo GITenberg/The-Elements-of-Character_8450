@@ -1,4 +1,8 @@
 _repo: The-Elements-of-Character_8450
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ware, Mary G. (Mary Greene)
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2757'
     url: http://www.gutenberg.org/2009/agents/2757
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8450#The-Elements-of-Character
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
